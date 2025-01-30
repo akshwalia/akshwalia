@@ -16,7 +16,10 @@ Hi there! I'm Aksh Walia, a passionate Full Stack Web Developer and Computer Eng
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=akshwalia&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+<!---
+your comment goes here
+and here
+![](https://github-readme-stats.vercel.app/api?username=akshwalia&theme=dark&hide_border=false&include_all_commits=true&count_private=true) -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akshwalia&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
